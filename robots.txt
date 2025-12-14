@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://render-blog.onrender.com/sitemap.xml
+Sitemap: https://tutorial-reviews.onrender.com/sitemap.xml
