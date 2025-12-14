@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://render-blog.onrender.com/sitemap.xml
