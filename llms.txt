@@ -1,0 +1,19 @@
+# https://tutorial-reviews.onrender.com
+
+> Lifetime Discount is a website dedicated to helping users find the best lifetime software deals, SaaS discounts, and AppSumo alternatives. We provide in-depth reviews, comparisons, and tutorials to help you save money on premium tools with one-time payments.
+
+## About Us
+We are a team of software enthusiasts who believe in the power of lifetime deals. Our mission is to help you discover and take advantage of the best software deals available.
+
+## Content Categories
+- Discount: Lifetime deal offers and coupon codes
+- Reviews: In-depth software reviews and comparisons
+- Tutorials: How-to guides and tips
+
+## Blog Posts
+- [i am tired i hope this works](https://tutorial-reviews.onrender.com/blog/i-am-tired-i-hope-this-works.html)
+- [is this right](https://tutorial-reviews.onrender.com/blog/is-this-right.html)
+- [sonata fixed](https://tutorial-reviews.onrender.com/blog/sonata-fixed.html)
+
+## Contact
+Visit our website for more information: https://tutorial-reviews.onrender.com
